@@ -6,7 +6,7 @@ class About extends React.Component {
   constructor(){
     super();
     this.state= {
-      showDetails: true
+      showDetails: false
     }
     this.showMore = this.showMore.bind(this);
     this.changeDetails = this.changeDetails.bind(this);

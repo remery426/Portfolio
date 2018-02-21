@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import Header from './Components/Header';
 import NavBar from './Components/NavBar';
 import About from './Components/About/About';
-import Projects from './Components/Projects';
+import Projects from './Components/Projects/Projects';
 import Skills from './Components/Skills';
 import Contact from './Components/Contact'
 import {BrowserRouter, Route} from 'react-router-dom';
