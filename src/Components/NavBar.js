@@ -7,7 +7,7 @@ class NavBar extends React.Component{
     return(
       <nav>
   <div className="light-blue nav-wrapper">
-    <ul id="nav-mobile" class="left hide-on-med-and-down">
+    <ul id="nav-mobile" class="left">
       <li><Link to="/" > About </Link></li>
       <li><Link to="/Projects" >Projects </Link></li>
       <li><Link to="/Skills" > Skills </Link></li>
