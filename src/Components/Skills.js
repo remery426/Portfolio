@@ -8,56 +8,56 @@ class Skills extends React.Component {
         <div className="row">
 
         <div className="col s4">
-          <img  style = {{height: 200}} src = "https://msftplayground.com/wp-content/uploads/2017/04/logoAzureSql.png"></img>
+          <img  style = {{height: 200}} src = "https://msftplayground.com/wp-content/uploads/2017/04/logoAzureSql.png" alt="Image temporarily unavailable"></img>
 
         </div>
         <div className="col s4">
-          <img style = {{height: 200}} src = "https://winnonapartners.files.wordpress.com/2016/12/react-js-winnona-partners.png?w=300"></img>
+          <img style = {{height: 200}} src = "https://winnonapartners.files.wordpress.com/2016/12/react-js-winnona-partners.png?w=300" alt="Image temporarily unavailable"></img>
         </div>
         <div className="col s4">
-          <img style = {{height: 200}} src = "https://www.trendsmap.com/ipx/https://www.python.org/static/opengraph-icon-200x200.png"></img>
-        </div>
-
-        </div>
-        <div className="row">
-
-        <div className="col s4">
-          <img  style = {{height: 200}} src = "https://redash.io/assets/images/temp/Mongo2.png"></img>
-
-        </div>
-        <div className="col s4">
-          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtk0nR2ofn2_YwDzVW1ObbMY2H-zpeABfbJX3YUguLvhx2nM_"></img>
-        </div>
-        <div className="col s4">
-          <img style = {{height: 200}} src = "https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg"></img>
+          <img style = {{height: 200}} src = "https://www.trendsmap.com/ipx/https://www.python.org/static/opengraph-icon-200x200.png" alt="Image temporarily unavailable"></img>
         </div>
 
         </div>
         <div className="row">
 
         <div className="col s4">
-          <img  style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRiVKqQm-505yUDS5SQzlsAM1NrvyYndlC6HaT_1WW9qnKV_I"></img>
+          <img  style = {{height: 200}} src = "https://redash.io/assets/images/temp/Mongo2.png" alt="Image temporarily unavailable"></img>
 
         </div>
         <div className="col s4">
-          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxNDWZR2abIDY02n63uPsXq5Y083XgQysHu7ZAhm0y559eAtc"></img>
+          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtk0nR2ofn2_YwDzVW1ObbMY2H-zpeABfbJX3YUguLvhx2nM_" alt="Image temporarily unavailable"></img>
         </div>
         <div className="col s4">
-          <img style = {{height: 200}} src = "https://www.xenonstack.com/static/images/icon-cloud-aws.png"></img>
+          <img style = {{height: 200}} src = "https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" alt="Image temporarily unavailable"></img>
         </div>
 
         </div>
         <div className="row">
 
         <div className="col s4">
-          <img  style = {{height: 200}} src = "https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg"></img>
+          <img  style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRiVKqQm-505yUDS5SQzlsAM1NrvyYndlC6HaT_1WW9qnKV_I" alt="Image temporarily unavailable"></img>
 
         </div>
         <div className="col s4">
-          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOT8ejjSWgf6a_OiGD-FwHr5vQoocQ-Wo1pX3NSj-EYLR65ERAkw"></img>
+          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxNDWZR2abIDY02n63uPsXq5Y083XgQysHu7ZAhm0y559eAtc" alt="Image temporarily unavailable"></img>
         </div>
         <div className="col s4">
-          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpL8fkileEga5can3NGdNvBkGrZjJiGu0myMxUUD7j8npiakZ5"></img>
+          <img style = {{height: 200}} src = "https://www.xenonstack.com/static/images/icon-cloud-aws.png" alt="Image temporarily unavailable"></img>
+        </div>
+
+        </div>
+        <div className="row">
+
+        <div className="col s4">
+          <img  style = {{height: 200}} src = "https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" alt="Image temporarily unavailable"></img>
+
+        </div>
+        <div className="col s4">
+          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOT8ejjSWgf6a_OiGD-FwHr5vQoocQ-Wo1pX3NSj-EYLR65ERAkw" alt="Image temporarily unavailable"></img>
+        </div>
+        <div className="col s4">
+          <img style = {{height: 200}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpL8fkileEga5can3NGdNvBkGrZjJiGu0myMxUUD7j8npiakZ5" alt="Image temporarily unavailable"></img>
         </div>
 
         </div>

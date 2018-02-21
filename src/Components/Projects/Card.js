@@ -7,7 +7,7 @@ const Card = (props) =>{
               <div class="card">
                 <h2> {props.title} </h2>
                 <div class="card-image">
-                  <img src={props.imgUrl}/>
+                  <img src={props.imgUrl} alt="Image temporarily unavailable"/>
                 </div>
                 <div class="card-content" style = {{height: 200}}>
 

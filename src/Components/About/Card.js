@@ -6,7 +6,7 @@ const Card = (props) =>{
   <div className="col s12 m7">
       <div className="card horizontal">
         <div className="card-image">
-          <img style = {styles.imgStyle} src={props.imgUrl}></img>
+          <img style = {styles.imgStyle} src={props.imgUrl} alt="Image temporarily unavailable"></img>
         </div>
         <div className="card-stacked">
           <div class="card-content">
