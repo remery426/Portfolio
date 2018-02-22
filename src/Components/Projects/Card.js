@@ -9,7 +9,7 @@ const Card = (props) =>{
                 <div class="card-image">
                   <img src={props.imgUrl} alt="Image temporarily unavailable"/>
                 </div>
-                <div class="card-content" style = {{height: 200}}>
+                <div class="card-content" >
 
                   <p>Tools Utilized: {props.tools}</p>
 
