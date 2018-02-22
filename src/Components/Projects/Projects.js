@@ -19,9 +19,9 @@ class Projects extends React.Component{
     return(
     <div className = "container" style= {{width: 'auto'}}>
     <p style ={{fontSize:20}} className = "center-align">Below are some of my favorite projects that I have worked on. You can use the links on the left side of the page to navigate to each individual project. For most of these projects the source code is available on my <a href= "https://github.com/remery426">github</a>. </p>
-    <div class="row">
+    <div className="row">
 
-    <div class="col s3">
+    <div className="col s12 m4 l3" style = {{display: "inline-block"}}>
     <ul>
     <li > <button onClick={() => this.setContent(0)} className= "waves-effect waves-light btn grey" style = {{width: 200}}>
     FitFam Mobile Appplication</button> </li>
@@ -33,8 +33,8 @@ class Projects extends React.Component{
     </ul>
     </div>
 
-    <div class="col s9">
-      <Card style = {{display: "inline"}} title = {Data[this.state.selected].title} imgUrl = {Data[this.state.selected].imgUrl} tools = {Data[this.state.selected].tools} content = {Data[this.state.selected].content} linkUrl= {Data[this.state.selected].linkUrl} linkDescription= {Data[this.state.selected].linkDescription}/>
+    <div className="col s12 m8 l9">
+      <Card style = {{display: "inline-block"}} title = {Data[this.state.selected].title} imgUrl = {Data[this.state.selected].imgUrl} tools = {Data[this.state.selected].tools} content = {Data[this.state.selected].content} linkUrl= {Data[this.state.selected].linkUrl} linkDescription= {Data[this.state.selected].linkDescription}/>
     </div>
 
   </div>
