@@ -9,7 +9,7 @@ const Card = (props) =>{
           <img style = {styles.imgStyle} src={props.imgUrl} alt="Image temporarily unavailable"></img>
         </div>
         <div className="card-stacked">
-          <div class="card-content">
+          <div className="card-content">
             <div  className = "left-align" style = {{'padding-left': 80}}>
             <h5> {props.boldText}</h5>
             <p>{props.content}</p>
